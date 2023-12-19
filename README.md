@@ -1,4 +1,4 @@
-# Comp-Geom Simplex Implentation
+# Comp-Geom Simplex Implementation
 
 Simplex Method implementation for Caleb and I's MATH 437/COMP 494 project. For a breakdown of how the code works and the algorithms used, check the paper.
 
